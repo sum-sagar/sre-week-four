@@ -1,5 +1,5 @@
 The logs for commands run and their output in sequential order
-
+```
 @sum-sagar ➜ /workspaces/sre-week-four (project) $ minikube start
 😄  minikube v1.32.0 on Ubuntu 20.04 (docker/amd64)
 🎉  minikube 1.33.0 is available! Download it: https://github.com/kubernetes/minikube/releases/tag/v1.33.0
@@ -216,4 +216,4 @@ spec:
               cpu: 1
               memory: 4Gi
 
-
+````
